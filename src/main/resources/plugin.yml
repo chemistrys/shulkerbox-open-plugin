@@ -1,0 +1,7 @@
+name: shulkerbox
+version: '1.0-SNAPSHOT'
+main: org.chemistrys.shulkerbox.main
+api-version: '1.20'
+authors: [ chemistrys ]
+description: open shulkerbox without place
+website: https://github.com/chemistrys/shulkerbox-open-plugin
